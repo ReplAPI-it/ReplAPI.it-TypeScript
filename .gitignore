@@ -1,0 +1,7 @@
+# packages
+node_modules/
+
+# configuration files
+.replit
+.replapirc.*
+.replapi.config.*

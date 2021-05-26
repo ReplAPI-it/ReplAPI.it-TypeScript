@@ -1,0 +1,25 @@
+{
+  "name": "replapi-it-ts",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReplAPI-it/ReplAPI.it-TypeScript.git"
+  },
+  "author": "Coder100",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ReplAPI-it/ReplAPI.it-TypeScript/issues"
+  },
+  "homepage": "https://github.com/ReplAPI-it/ReplAPI.it-TypeScript#readme",
+  "dependencies": {
+    "rss-parser": "^3.12.0",
+    "typescript": "^4.2.4"
+  }
+}
